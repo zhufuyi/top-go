@@ -4283,8 +4283,8 @@ _Where to discover new Go libraries._
 | Repo | Stars | Description |
 | :------ | :------ | :------ |
 | <b>[GoBooks](https://github.com/dariubs/GoBooks) | 12.0k | A curated list of Go books. |
-| <b>[The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 8.7k |  |
-| <b>[Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3.0k |  |
+| <b>[The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 8.7k | Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。 |
+| <b>[Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3.0k | Learn how to write webapps without a framework in Go. |
 | <b>[Go Succinctly](https://github.com/thedevsir/gosuccinctly) | 22 | in Persian. |
 | <b>[A Go Developer's Notebook](https://leanpub.com/GoNotebook/read) | - |  |
 | <b>[An Introduction to Programming in Go](http://www.golang-book.com/) | - |  |
@@ -4315,9 +4315,9 @@ _Where to discover new Go libraries._
 | <b>[gophers](https://github.com/egonelbre/gophers) | 2.8k | Free gophers. |
 | <b>[gophers](https://github.com/ashleymcnamara/gophers) | 2.6k | Gopher artworks by Ashley McNamara. |
 | <b>[Free Gophers Pack](https://github.com/MariaLetta/free-gophers-pack) | 2.5k | Gopher graphics pack by Maria Letta with illustrations and emotional characters in vector and raster. |
-| <b>[gophericons](https://github.com/shalakhin/gophericons) | 604 |  |
+| <b>[gophericons](https://github.com/shalakhin/gophericons) | 604 | 34 gopher images for Go developers community |
 | <b>[gopherize.me](https://github.com/matryer/gopherize.me) | 573 | Gopherize yourself. |
-| <b>[gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 530 |  |
+| <b>[gopher-stickers](https://github.com/tenntenn/gopher-stickers) | 530 | gopher stickers |
 | <b>[gopher-logos](https://github.com/GolangUA/gopher-logos) | 105 | adorable gopher logos. |
 | <b>[gophers](https://github.com/sillecelik/go-gopher) | 102 | Gopher amigurumi toy pattern. |
 | <b>[gophers](https://github.com/rogeralsing/gophers) | 55 | random gopher graphics. |
@@ -4414,12 +4414,12 @@ _Where to discover new Go libraries._
 
 | Repo | Stars | Description |
 | :------ | :------ | :------ |
-| <b>[CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 25.0k |  |
-| <b>[Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 14.0k |  |
-| <b>[Uber](https://github.com/uber-go/guide/blob/master/style.md) | 11.0k |  |
-| <b>[Magnetico](https://github.com/boramalper/magnetico/wiki/magnetico-Design-Specification) | 2.7k |  |
-| <b>[bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) | 1.3k |  |
-| <b>[Trybe](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 304 |  |
+| <b>[CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 25.0k | CockroachDB - the open source, cloud-native distributed SQL database. |
+| <b>[Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 14.0k | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy. |
+| <b>[Uber](https://github.com/uber-go/guide/blob/master/style.md) | 11.0k | The Uber Go Style Guide. |
+| <b>[Magnetico](https://github.com/boramalper/magnetico/wiki/magnetico-Design-Specification) | 2.7k | Autonomous (self-hosted) BitTorrent DHT search engine suite. |
+| <b>[bahlo/go-styleguide](https://github.com/bahlo/go-styleguide) | 1.3k | 🏆 Opinionated Styleguide for the Go language |
+| <b>[Trybe](https://github.com/betrybe/playbook-go/blob/main/README_EN.md) | 304 | Playbook da linguagem Go |
 | <b>[GitLab](https://docs.gitlab.com/ee/development/go_guide/) | - |  |
 | <b>[Sourcegraph](https://about.sourcegraph.com/handbook/engineering/go_style_guide) | - |  |
 | <b>[Thanos](https://thanos.io/tip/contributing/coding-style-guide.md/) | - |  |

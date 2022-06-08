@@ -44,7 +44,7 @@
 | <b>[cobra](https://github.com/spf13/cobra) | 27.0k | Commander for modern Go CLI interactions. |
 | <b>[drone](https://github.com/drone/drone) | 25.0k | Drone is a Continuous Integration platform built on Docker, written in Go. |
 | <b>[cockroach](https://github.com/cockroachdb/cockroach) | 25.0k | Scalable, Geo-Replicated, Transactional Datastore. |
-| <b>[CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 25.0k |  |
+| <b>[CockroachDB](https://github.com/cockroachdb/cockroach/blob/master/docs/style.md) | 25.0k | CockroachDB - the open source, cloud-native distributed SQL database. |
 | <b>[influxdb](https://github.com/influxdb/influxdb) | 24.0k | Scalable datastore for metrics, events, and real-time analytics. |
 | <b>[go-kit](https://github.com/go-kit/kit) | 23.0k | Microservice toolkit with support for service discovery, load balancing, pluggable transports, request tracking, etc. |
 | <b>[Echo](https://github.com/labstack/echo) | 23.0k | High performance, minimalist Go web framework. |
@@ -88,7 +88,7 @@
 | <b>[vim-go](https://github.com/fatih/vim-go) | 15.0k | Go development plugin for Vim. |
 | <b>[Seaweed File System](https://github.com/chrislusf/seaweedfs) | 15.0k | Fast, Simple and Scalable Distributed File System with O(1) disk seek. |
 | <b>[redis](https://github.com/go-redis/redis) | 15.0k | Redis client for Golang. |
-| <b>[Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 14.0k |  |
+| <b>[Hyperledger](https://github.com/hyperledger/fabric/blob/release-1.4/docs/source/style-guides/go-style.rst) | 14.0k | Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy. |
 | <b>[httprouter](https://github.com/julienschmidt/httprouter) | 14.0k | High performance router. Use this and the standard http handlers to form a very high performance web framework. |
 | <b>[Hey](https://github.com/rakyll/hey) | 14.0k | Hey is a tiny program that sends some load to a web application. |
 | <b>[vitess](https://github.com/youtube/vitess) | 14.0k | vitess provides servers and tools which facilitate scaling of MySQL databases for large scale web services. |
@@ -108,7 +108,7 @@
 | <b>[GoBooks](https://github.com/dariubs/GoBooks) | 12.0k | A curated list of Go books. |
 | <b>[GoQuery](https://github.com/PuerkitoBio/goquery) | 12.0k | GoQuery brings a syntax and a set of features similar to jQuery to the Go language. |
 | <b>[go-sql-driver/mysql](https://github.com/go-sql-driver/mysql) | 12.0k | MySQL driver for Go. |
-| <b>[Uber](https://github.com/uber-go/guide/blob/master/style.md) | 11.0k |  |
+| <b>[Uber](https://github.com/uber-go/guide/blob/master/style.md) | 11.0k | The Uber Go Style Guide. |
 | <b>[NATS](https://github.com/nats-io/gnatsd) | 11.0k | Lightweight, high performance messaging system for microservices, IoT, and cloud native systems. |
 | <b>[validator](https://github.com/go-playground/validator) | 11.0k | Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving. |
 | <b>[micro](https://github.com/micro/micro) | 11.0k | A distributed systems runtime for the cloud and beyond. |
@@ -130,7 +130,7 @@
 | <b>[qt](https://github.com/therecipe/qt) | 9.3k | Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi). |
 | <b>[redigo](https://github.com/gomodule/redigo) | 9.1k | Redigo is a Go client for the Redis database. |
 | <b>[migrate](https://github.com/golang-migrate/migrate) | 8.8k | Database migrations. CLI and Golang library. |
-| <b>[The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 8.7k |  |
+| <b>[The Golang Standard Library by Example (Chinese)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | 8.7k | Golang标准库。对于程序员而言，标准库与语言本身同样重要，它好比一个百宝箱，能为各种常见的任务提供完美的解决方案。以示例驱动的方式讲解Golang的标准库。 |
 | <b>[github](https://github.com/google/go-github) | 8.6k | Go library for accessing the GitHub REST API v3. |
 | <b>[sarama](https://github.com/Shopify/sarama) | 8.6k | Go library for Apache Kafka. |
 | <b>[graphql-go](https://github.com/graphql-go/graphql) | 8.5k | Implementation of GraphQL for Go. |
@@ -369,7 +369,7 @@
 | <b>[glow](https://github.com/chrislusf/glow) | 3.1k | Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go. |
 | <b>[google](https://github.com/google/google-api-go-client) | 3.0k | Auto-generated Google APIs for Go. |
 | <b>[mage](https://github.com/magefile/mage) | 3.0k | Mage is a make/rake-like build tool using Go. |
-| <b>[Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3.0k |  |
+| <b>[Web Application with Go the Anti-Textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) | 3.0k | Learn how to write webapps without a framework in Go. |
 | <b>[ini](https://github.com/go-ini/ini) | 3.0k | Go package to read and write INI files. |
 | <b>[minify](https://github.com/tdewolff/minify) | 3.0k | Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats. |
 | <b>[sprig](https://github.com/Masterminds/sprig) | 3.0k | Useful template functions for Go templates. |
@@ -406,7 +406,7 @@
 | <b>[ozzo-validation](https://github.com/go-ozzo/ozzo-validation) | 2.7k | Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags. |
 | <b>[goworker](https://github.com/benmanns/goworker) | 2.7k | goworker is a Go-based background worker. |
 | <b>[netpoll](https://github.com/cloudwego/netpoll) | 2.7k | A high-performance non-blocking I/O networking framework, which focused on RPC scenarios, developed by ByteDance. |
-| <b>[Magnetico](https://github.com/boramalper/magnetico/wiki/magnetico-Design-Specification) | 2.7k |  |
+| <b>[Magnetico](https://github.com/boramalper/magnetico/wiki/magnetico-Design-Specification) | 2.7k | Autonomous (self-hosted) BitTorrent DHT search engine suite. |
 | <b>[Mercure](https://github.com/dunglas/mercure) | 2.7k | Server and library to dispatch server-sent updates using the Mercure protocol (built on top of Server-Sent Events). |
 | <b>[ulid](https://github.com/oklog/ulid) | 2.7k | Go implementation of ULID (Universally Unique Lexicographically Sortable Identifier). |
 | <b>[tiedot](https://github.com/HouzuoGuo/tiedot) | 2.7k | Your NoSQL database powered by Golang. |
