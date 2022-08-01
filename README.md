@@ -4,6 +4,8 @@
 
 Click here to see [top 500 repositories](https://github.com/zhufuyi/top-go/blob/main/top500-repos.md).
 
+Click here to see [top 100 active repositories](https://github.com/zhufuyi/top-go/blob/main/top100-active-repos.md).
+
 <br>
 
 ---
